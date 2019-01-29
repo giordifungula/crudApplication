@@ -14,7 +14,7 @@ We will be documenting the process of installing node modules and updating the r
  - Have a terminal running
  - Run npm init (creates a package)
  - Run npm install npm@latest -g
- - Run install -g json-server --save
+ - Run npm install -g json-server --save
  ---
 
 ## Getting Started
@@ -34,7 +34,6 @@ We will be documenting the process of installing node modules and updating the r
 
 ## Running the tests
 - Run the JSON server by running json-server --watch db.json
-
 
 ## Built with
  - VSCode
